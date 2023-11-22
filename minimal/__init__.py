@@ -11,3 +11,4 @@ def my_mul(x, y):
 def fer_rest(x,y):
     """Una función que resta. """
     return x-y
+    
